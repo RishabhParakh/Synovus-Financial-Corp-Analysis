@@ -88,7 +88,6 @@ Presents insights into good vs bad loans, loan status distribution, and key perf
 - **📊 Tableau Public** – For dashboard design and data visualization
 - **📁 CSV** – Loan data used for detailed analysis
 - **📄 PDF** – Business definitions and terminology guide
-- **🧮 Python (Pandas, NumPy)** – For data cleaning and wrangling (offline)
 
 ---
 
