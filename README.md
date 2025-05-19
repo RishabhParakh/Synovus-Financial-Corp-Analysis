@@ -1,0 +1,1 @@
+# Synovus-Financial-Corp-Analysis
