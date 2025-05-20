@@ -18,26 +18,33 @@ Synovus aimed to:
 
 ## 🌐 Interactive Dashboard
 
-👉 **[Click here to explore the full interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/rishabh.parakh1925/viz/SynovusFinancialCorpDataAnalysis/Overview)**
+👉 **[View Full Tableau Dashboard](https://public.tableau.com/app/profile/rishabh.parakh1925/viz/SynovusFinancialCorpDataAnalysis/Overview)**
+
+---
+
+## 📄 Data Dictionary / Field Terminologies
+
+📘 **[Click here to view TERMINOLOGIES USED.txt](TERMINOLOGIES%20USED.txt)** – A detailed guide explaining each column in the CSV loan dataset:  
+Includes terms like `Loan ID`, `Employee Length`, `DTI`, `Purpose`, `Loan Status`, and more – essential for business understanding.
 
 ---
 
 ## 📊 Dashboard Snapshots
 
-### ✅ Overview Dashboard
-Provides a snapshot of total loan applications, disbursed amounts, interest rates, and user behavior trends.  
+### ✅ Overview Dashboard  
+Snapshot of total loan applications, disbursed amounts, interest rates, and behavior trends:  
 ![Overview](Images/Synovus_Financial_Corp_Bank_Loan_Report_Overview.png)
 
 ---
 
-### 📌 Details Dashboard
-Includes transactional-level data on each loan, such as purpose, grade, ownership, interest rate, installment, and total payment.  
+### 📌 Details Dashboard  
+Shows loan-level details like purpose, grade, ownership, interest, installment, and total payment:  
 ![Details](Images/Synovus_Financial_Corp_Bank_Loan_Report_Details.png)
 
 ---
 
-### 🔄 Summary Dashboard
-Presents insights into good vs bad loans, loan status distribution, and key performance statistics.  
+### 🔄 Summary Dashboard  
+Displays performance metrics including loan status (good vs bad), total returns, and repayment trends:  
 ![Summary](Images/Synovus_Financial_Corp_Bank_Loan_Report_Summary.png)
 
 ---
@@ -69,17 +76,17 @@ Presents insights into good vs bad loans, loan status distribution, and key perf
 
 ## ✅ Recommendations
 
-1. **Tighten Loan Approval for High DTI & High Interest Segments:**
-   - Add more verification layers for applicants with high DTI and interest rates above 13%.
+1. **Tighten Loan Approval for High DTI & High Interest Segments:**  
+   Add more verification layers for applicants with high DTI and interest rates above 13%.
 
-2. **Promote Shorter Loan Terms:**
-   - Encourage 36-month loans with better terms to reduce exposure period.
+2. **Promote Shorter Loan Terms:**  
+   Encourage 36-month loans with better terms to reduce exposure period.
 
-3. **Develop Specialized Products for Debt Consolidation:**
-   - Tailor low-risk packages with flexible terms, especially for long-tenured employees and homeowners.
+3. **Develop Specialized Products for Debt Consolidation:**  
+   Tailor low-risk packages with flexible terms, especially for long-tenured employees and homeowners.
 
-4. **Use Predictive Modeling for Early Risk Detection:**
-   - Apply ML models using features like employment length, home ownership, DTI, and loan purpose to predict bad loans.
+4. **Use Predictive Modeling for Early Risk Detection:**  
+   Apply ML models using features like employment length, home ownership, DTI, and loan purpose to predict bad loans.
 
 ---
 
@@ -87,8 +94,7 @@ Presents insights into good vs bad loans, loan status distribution, and key perf
 
 - **📊 Tableau Public** – For dashboard design and data visualization
 - **📁 CSV** – Loan data used for detailed analysis
-- **📄 PDF** – Business definitions and terminology guide
+- **📄 [Terminology PDF](TERMINOLOGIES%20USED.txt)** – Explains each dataset field
+- **🧮 Python (Pandas, NumPy)** – For data cleaning and wrangling (offline)
 
 ---
-
-
