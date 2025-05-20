@@ -72,7 +72,7 @@ Below are key loan-related terms used in the analysis and how banks utilize them
 • Purpose: Measures debt burden relative to income.
 • Bank Use: Key for evaluating loan affordability and default risk.
 
-📥 Instalment:
+📥 Installment:
 • Purpose: Monthly repayment amount (principal + interest).
 • Bank Use: Used for amortization and affordability checks.
 
