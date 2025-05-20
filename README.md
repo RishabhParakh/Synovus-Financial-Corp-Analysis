@@ -116,7 +116,6 @@ Compares good vs bad loans, net recovery, and distribution across key metrics li
 ## 🧰 Tools & Technologies Used
 
 - **📊 Tableau Public** – Dashboard development and data storytelling
-- **🧮 Python (Pandas, NumPy)** – Data preprocessing (offline)
 - **📁 loan.csv** – Base dataset containing 30+ borrower and loan fields
 - **📄 [Terminology Reference](TERMINOLOGIES%20USED.txt)** – Business-focused data dictionary
 
