@@ -95,6 +95,5 @@ Displays performance metrics including loan status (good vs bad), total returns,
 - **📊 Tableau Public** – For dashboard design and data visualization
 - **📁 CSV** – Loan data used for detailed analysis
 - **📄 [Terminology PDF](TERMINOLOGIES%20USED.txt)** – Explains each dataset field
-- **🧮 Python (Pandas, NumPy)** – For data cleaning and wrangling (offline)
 
 ---
