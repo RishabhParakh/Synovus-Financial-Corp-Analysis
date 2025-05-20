@@ -1,0 +1,89 @@
+📘 TERMINOLOGIES USED – Synovus Loan Dashboard
+
+Below are key loan-related terms used in the analysis and how banks utilize them.
+
+────────────────────────────────────────────
+
+🔢 Loan ID:
+• Purpose: A unique identifier for each loan.
+• Bank Use: Tracks loans throughout their lifecycle for management and customer support.
+
+📍 Address State:
+• Purpose: Indicates borrower's location.
+• Bank Use: Assesses regional loan demand, default risk, and regulatory compliance.
+
+👔 Employee Length:
+• Purpose: Shows job stability of the borrower.
+• Bank Use: Longer employment implies lower default risk.
+
+🧑‍💼 Employee Title:
+• Purpose: Specifies borrower's occupation.
+• Bank Use: Helps verify income and tailor offers to different professions.
+
+🎖️ Grade:
+• Purpose: Creditworthiness classification (A = low risk, G = high risk).
+• Bank Use: Guides interest rate decisions and risk pricing.
+
+🎯 Sub Grade:
+• Purpose: A more detailed risk classification (e.g., A1, B2, etc.).
+• Bank Use: Enables granular loan pricing and differentiation.
+
+🏠 Home Ownership:
+• Purpose: Describes housing status (Rent, Mortgage, Own).
+• Bank Use: Indicates financial stability and potential collateral.
+
+📆 Issue Date:
+• Purpose: Marks the start of the loan.
+• Bank Use: Tracks loan age and calculates interest.
+
+📊 Last Credit Pull Date:
+• Purpose: When credit info was last updated.
+• Bank Use: Evaluates changes in borrower's creditworthiness.
+
+💸 Last Payment Date:
+• Purpose: Date of last loan payment.
+• Bank Use: Monitors payment behavior and flags delinquencies.
+
+📌 Loan Status:
+• Purpose: Current state (e.g., Fully Paid, Current, Charged Off).
+• Bank Use: Helps assess portfolio health and provision planning.
+
+📅 Next Payment Date:
+• Purpose: Scheduled next installment date.
+• Bank Use: Aids cash flow forecasting and revenue planning.
+
+📝 Purpose:
+• Purpose: Why the loan was taken (e.g., debt consolidation, education).
+• Bank Use: Used for segmentation and offer personalization.
+
+⏳ Term:
+• Purpose: Loan duration in months (36 or 60).
+• Bank Use: Determines payment schedule and interest structuring.
+
+🔍 Verification Status:
+• Purpose: Whether borrower’s data is verified.
+• Bank Use: Evaluates credibility and risk in the application.
+
+💼 Annual Income:
+• Purpose: Borrower’s yearly earnings.
+• Bank Use: Used to calculate eligibility and debt-to-income ratios.
+
+⚖️ DTI (Debt-to-Income Ratio):
+• Purpose: Measures debt burden relative to income.
+• Bank Use: Key for evaluating loan affordability and default risk.
+
+📥 Instalment:
+• Purpose: Monthly repayment amount (principal + interest).
+• Bank Use: Used for amortization and affordability checks.
+
+📈 Interest Rate:
+• Purpose: Annual cost of the loan as a percentage.
+• Bank Use: Determines revenue, risk pricing, and competitiveness.
+
+💰 Loan Amount:
+• Purpose: Total money borrowed (principal).
+• Bank Use: Core input for structuring and risk evaluation.
+
+────────────────────────────────────────────
+
+🧠 Tip: These fields helped drive our analysis and power the Synovus Bank loan dashboards!
